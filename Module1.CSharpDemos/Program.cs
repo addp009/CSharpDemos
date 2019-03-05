@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpDemos1
+namespace Module1.CSharpDemos
 {
     class Program
     {
